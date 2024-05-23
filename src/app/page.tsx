@@ -5,6 +5,5 @@ export default function Home() {
         Testing
       </h1>
     </>
-    // eslint-disable-next-line
   );
 }
